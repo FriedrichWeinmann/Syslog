@@ -1,0 +1,30 @@
+﻿namespace Syslog
+{
+    public enum Facility
+    {
+        kern,
+        user,
+        mail,
+        system,
+        security,
+        syslog,
+        lpr,
+        news,
+        uucp,
+        clock,
+        authpriv,
+        ftp,
+        ntp,
+        logaudit,
+        logalert,
+        cron,
+        local0,
+        local1,
+        local2,
+        local3,
+        local4,
+        local5,
+        local6,
+        local7,
+    }
+}

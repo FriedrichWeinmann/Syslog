@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{58CD5827-CE1D-4ADC-BC64-8E4AD970B19B}") = "Syslog", "Syslog\Syslog.csproj", "{730E43A1-FD30-4C15-B0B7-95B41BDFF631}"
+Project("{5E07FC3E-C990-44E1-B5EB-6EBCE93857EC}") = "Syslog", "Syslog\Syslog.csproj", "{92EFB4CA-9347-4A39-A7DC-C9A0EC651424}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{730E43A1-FD30-4C15-B0B7-95B41BDFF631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{730E43A1-FD30-4C15-B0B7-95B41BDFF631}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{730E43A1-FD30-4C15-B0B7-95B41BDFF631}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{730E43A1-FD30-4C15-B0B7-95B41BDFF631}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92EFB4CA-9347-4A39-A7DC-C9A0EC651424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92EFB4CA-9347-4A39-A7DC-C9A0EC651424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92EFB4CA-9347-4A39-A7DC-C9A0EC651424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92EFB4CA-9347-4A39-A7DC-C9A0EC651424}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {8F9DEF95-EBD7-4F48-87AE-713A9268DCB8}
+		SolutionGuid = {E492A1E6-1C0C-4861-9A0E-05BEF899619A}
 	EndGlobalSection
 EndGlobal
