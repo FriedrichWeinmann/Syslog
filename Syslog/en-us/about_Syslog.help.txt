@@ -1,0 +1,11 @@
+﻿TOPIC
+	about_Syslog
+	
+SHORT DESCRIPTION
+	Explains how to use the Syslog powershell module
+	
+LONG DESCRIPTION
+	<Insert Content here>
+
+KEYWORDS
+	Syslog

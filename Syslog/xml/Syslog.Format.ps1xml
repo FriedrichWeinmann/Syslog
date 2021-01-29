@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<Configuration>
+    <ViewDefinitions>
+        <!-- Syslog.Server -->
+        <View>
+            <Name>Syslog.Server</Name>
+            <ViewSelectedBy>
+                <TypeName>Syslog.Server</TypeName>
+            </ViewSelectedBy>
+            <TableControl>
+                <AutoSize/>
+                <TableHeaders>
+                    <TableColumnHeader/>
+                    <TableColumnHeader/>
+                    <TableColumnHeader/>
+                    <TableColumnHeader/>
+                    <TableColumnHeader/>
+                    <TableColumnHeader/>
+                </TableHeaders>
+                <TableRowEntries>
+                    <TableRowEntry>
+                        <TableColumnItems>
+                            <TableColumnItem>
+                                <PropertyName>Kind</PropertyName>
+                            </TableColumnItem>
+                            <TableColumnItem>
+                                <PropertyName>State</PropertyName>
+                            </TableColumnItem>
+                            <TableColumnItem>
+                                <PropertyName>ListenOn</PropertyName>
+                            </TableColumnItem>
+                            <TableColumnItem>
+                                <PropertyName>InPort</PropertyName>
+                            </TableColumnItem>
+                            <TableColumnItem>
+                                <PropertyName>OutServer</PropertyName>
+                            </TableColumnItem>
+                            <TableColumnItem>
+                                <PropertyName>OutPort</PropertyName>
+                            </TableColumnItem>
+                        </TableColumnItems>
+                    </TableRowEntry>
+                </TableRowEntries>
+            </TableControl>
+        </View>
+    </ViewDefinitions>
+</Configuration>
